@@ -1,0 +1,15 @@
+D:\courses\.net\ConsoleApp_CircleCi\ConsoleApp_CircleCi\bin\Debug\net6.0\ConsoleApp_CircleCi.exe
+D:\courses\.net\ConsoleApp_CircleCi\ConsoleApp_CircleCi\bin\Debug\net6.0\ConsoleApp_CircleCi.deps.json
+D:\courses\.net\ConsoleApp_CircleCi\ConsoleApp_CircleCi\bin\Debug\net6.0\ConsoleApp_CircleCi.runtimeconfig.json
+D:\courses\.net\ConsoleApp_CircleCi\ConsoleApp_CircleCi\bin\Debug\net6.0\ConsoleApp_CircleCi.dll
+D:\courses\.net\ConsoleApp_CircleCi\ConsoleApp_CircleCi\bin\Debug\net6.0\ConsoleApp_CircleCi.pdb
+D:\courses\.net\ConsoleApp_CircleCi\ConsoleApp_CircleCi\obj\Debug\net6.0\ConsoleApp_CircleCi.csproj.AssemblyReference.cache
+D:\courses\.net\ConsoleApp_CircleCi\ConsoleApp_CircleCi\obj\Debug\net6.0\ConsoleApp_CircleCi.GeneratedMSBuildEditorConfig.editorconfig
+D:\courses\.net\ConsoleApp_CircleCi\ConsoleApp_CircleCi\obj\Debug\net6.0\ConsoleApp_CircleCi.AssemblyInfoInputs.cache
+D:\courses\.net\ConsoleApp_CircleCi\ConsoleApp_CircleCi\obj\Debug\net6.0\ConsoleApp_CircleCi.AssemblyInfo.cs
+D:\courses\.net\ConsoleApp_CircleCi\ConsoleApp_CircleCi\obj\Debug\net6.0\ConsoleApp_CircleCi.csproj.CoreCompileInputs.cache
+D:\courses\.net\ConsoleApp_CircleCi\ConsoleApp_CircleCi\obj\Debug\net6.0\ConsoleApp_CircleCi.dll
+D:\courses\.net\ConsoleApp_CircleCi\ConsoleApp_CircleCi\obj\Debug\net6.0\refint\ConsoleApp_CircleCi.dll
+D:\courses\.net\ConsoleApp_CircleCi\ConsoleApp_CircleCi\obj\Debug\net6.0\ConsoleApp_CircleCi.pdb
+D:\courses\.net\ConsoleApp_CircleCi\ConsoleApp_CircleCi\obj\Debug\net6.0\ConsoleApp_CircleCi.genruntimeconfig.cache
+D:\courses\.net\ConsoleApp_CircleCi\ConsoleApp_CircleCi\obj\Debug\net6.0\ref\ConsoleApp_CircleCi.dll
